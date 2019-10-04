@@ -1,4 +1,5 @@
 // can we transfer all this sentence to ES6 style?
+// still doubt what is going on...
 
 const TextEncoder = require('text-encoding').TextEncoder;
 const EventEmitter = require('events');
