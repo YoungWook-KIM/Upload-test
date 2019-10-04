@@ -1,3 +1,5 @@
+// can we transfer all this sentence to ES6 style?
+
 const TextEncoder = require('text-encoding').TextEncoder;
 const EventEmitter = require('events');
 const JSZip = require('jszip');
